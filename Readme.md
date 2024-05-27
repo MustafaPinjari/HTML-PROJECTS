@@ -7,7 +7,7 @@ Welcome to my repository showcasing a variety of web projects built with **HTML*
 Explore each project individually and view live demos to see them in action:
 |  #  | Project                                               | Live Demo                                                 |
 | :-: | ----------------------------------------------------- | --------------------------------------------------------- |
-| 001 | [🌐 Project One](https://github.com/MustafaPinjari/Battery-Detector) | [🔗 Live Demo](https://batterydetector.netlify.app/)  |
+| 001 | [🌐 Battery-Detector](https://github.com/MustafaPinjari/Battery-Detector) | [🔗 Live Demo](https://batterydetector.netlify.app/)  |
 | 002 | [🎨 Project Two](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-two)  |
 | 003 | [🛠️ Project Three](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-three)  |
 | 004 | [📦 Project Four](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-four)  |
@@ -30,7 +30,7 @@ Each project in this repository is designed to be a self-contained example of we
    ```
 2. **Navigate to the Project Directory**:
    ```sh
-   cd yourrepo/Project-One
+   cd HTML-PROJECTS/Battery-Detector
    ```
 3. **Open the Project**:
    - Open `index.html` in your favorite web browser.
