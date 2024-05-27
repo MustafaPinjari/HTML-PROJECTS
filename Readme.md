@@ -7,7 +7,7 @@ Welcome to my repository showcasing a variety of web projects built with **HTML*
 Explore each project individually and view live demos to see them in action:
 |  #  | Project                                               | Live Demo                                                 |
 | :-: | ----------------------------------------------------- | --------------------------------------------------------- |
-| 001 | [🌐 Project One](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-one)  |
+| 001 | [🌐 Project One](https://github.com/MustafaPinjari/Battery-Detector) | [🔗 Live Demo](https://batterydetector.netlify.app/)  |
 | 002 | [🎨 Project Two](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-two)  |
 | 003 | [🛠️ Project Three](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-three)  |
 | 004 | [📦 Project Four](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-four)  |
@@ -18,9 +18,9 @@ Explore each project individually and view live demos to see them in action:
 
 Each project in this repository is designed to be a self-contained example of web development techniques. From simple animations to complex interactions, these projects are great for learning and experimenting.
 
-- **HTML**: Structure and semantics of web pages. ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-- **CSS**: Styling and layout techniques. ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-- **JavaScript**: Interactivity and dynamic content. ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+- **HTML**: Structure and semantics of web pages. 
+- **CSS**: Styling and layout techniques. 
+- **JavaScript**: Interactivity and dynamic content. 
 
 ## 🛠️ How to Use This Repository
 
