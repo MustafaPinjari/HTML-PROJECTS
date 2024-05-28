@@ -35,7 +35,7 @@ The project consists of the following files:
 To use this project, simply clone the repository or download the files directly. No additional dependencies are required.
 
 ```bash
-git clone https://github.com/yourusername/search-bar-project.git
+git clone https://github.com/MustafaPinjari/HTML-PROJECTS/Search-Bar.git
 ```
 
 ## Usage
