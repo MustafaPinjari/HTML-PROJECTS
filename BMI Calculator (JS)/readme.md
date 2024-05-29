@@ -26,12 +26,13 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/MustafaPinjari/HTML-PROJECTS/BMI Calculator (JS).git
+   
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd bmi-calculator
+   cd BMI Calculator (JS)
    ```
 
 3. Open the `index.html` file in your preferred web browser.
