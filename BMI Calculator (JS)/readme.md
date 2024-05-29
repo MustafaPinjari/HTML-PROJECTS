@@ -2,6 +2,9 @@
 
 This project is a simple web-based Body Mass Index (BMI) calculator that allows users to input their height and weight to determine their BMI. The application is built using HTML, CSS, and JavaScript.
 
+## Screenshot
+![BMI Calculator Screenshot](snap.PNG)
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
