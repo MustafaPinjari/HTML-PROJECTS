@@ -9,7 +9,7 @@ Explore each project individually and view live demos to see them in action:
 | :-: | ----------------------------------------------------- | --------------------------------------------------------- |
 | 001 | [🔋 Battery-Detector](https://github.com/MustafaPinjari/Battery-Detector) | [🔗 Live Demo](https://batterydetector.netlify.app/)  |
 | 002 | [🔍 Search-Bar](https://github.com/MustafaPinjari/Search-Bar) | [🔗 Live Demo](https://searchbarbymustafa.netlify.app/)  |
-| 003 | [🛠️ BMI Calculator (JS)](https://github.com/MustafaPinjari/HTML-PROJECTS/) | [🔗 Live Demo](https://bmicalculatorindex.netlify.app/)  |
+| 003 | [🛠️ BMI Calculator (JS)](https://github.com/MustafaPinjari/HTML-PROJECTS/BMICalculator(JS)) | [🔗 Live Demo](https://bmicalculatorindex.netlify.app/)  |
 | 004 | [📦 Classroom Scheduler](https://github.com/MustafaPinjari/HTML-PROJECTS/) | [🔗 Live Demo](https://classroomschedulerbymustafa.netlify.app/)  |
 | 005 | [✨ Project Five](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-five)  |
 | 006 | [🔧 Project Six](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-six)  |
