@@ -48,7 +48,7 @@ If you find these projects helpful or interesting, please consider starring the 
 Feel free to reach out if you have any questions or suggestions:
 - **Email**: unlessuser99@gmail.com
 - **Instagram**: [@its_ur_musuuu](https://www.instagram.com/its_ur_musuuu/)
-- **LinkedIn**: [Mustafa Pinjart](https://www.linkedin.com/in/mustafa-pinjari-287625256/)
+- **LinkedIn**: [Mustafa Pinjari](https://www.linkedin.com/in/mustafa-pinjari-287625256/)
 
 ---
 
