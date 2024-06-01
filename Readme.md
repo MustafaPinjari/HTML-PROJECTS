@@ -12,7 +12,7 @@ Explore each project individually and view live demos to see them in action:
 | 003 | [🛠️ BMI Calculator (JS)](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/BMI%20Calculator%20(JS)) | [🔗 Live Demo](https://bmicalculatorindex.netlify.app/)  |
 | 004 | [📦 Classroom Scheduler](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/CLASSROOM%20SCHEDULER%20WEBSITE) | [🔗 Live Demo](https://classroomschedulerbymustafa.netlify.app/)  |
 | 005 | [⌚ Analog Clock](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Analog%20Clock) | [🔗 Live Demo](https://analog-watch-by-mustafa.netlify.app/)  |
-| 006 | [🔧 Project Six](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://your-live-demo-link.com/project-six)  |
+| 006 | [🕛Digital Clock](https://github.com/MustafaPinjari/HTML-PROJECTS/Digital%20Clock) | [🔗 Live Demo](https://digital-clock-by-mustafa.netlify.app/)  |
 
 ## 📚 About the Projects
 
