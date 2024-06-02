@@ -13,7 +13,7 @@ Explore each project individually and view live demos to see them in action:
 | 004 | [📦 Classroom Scheduler](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/CLASSROOM%20SCHEDULER%20WEBSITE) | [🔗 Live Demo](https://classroomschedulerbymustafa.netlify.app/)  |
 | 005 | [⌚ Analog Clock](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Analog%20Clock) | [🔗 Live Demo](https://analog-watch-by-mustafa.netlify.app/)  |
 | 006 | [🕛Digital Clock](https://github.com/MustafaPinjari/HTML-PROJECTS/Digital%20Clock) | [🔗 Live Demo](https://digital-clock-by-mustafa.netlify.app/)  |
-
+| 007 | [📚 Blog Application](https://github.com/MustafaPinjari/HTML-PROJECTS/Blog-Application) | [🔗 Live Demo](https://blog-application-by-mustafa.netlify.app/)  |
 ## 📚 About the Projects
 
 Each project in this repository is designed to be a self-contained example of web development techniques. From simple animations to complex interactions, these projects are great for learning and experimenting.
