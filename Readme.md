@@ -18,7 +18,7 @@ Explore each project individually and view live demos to see them in action:
 | 009 | [⚽ Bouncing balls](https://github.com/MustafaPinjari/HTML-PROJECTS/) | [🔗 Live Demo](https://bouncing-balls-by-mustafa.netlify.app/)  |
 | 010 | [🔄️ Word Counter](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/word%20counter) | [🔗 Live Demo](https://bouncing-balls-by-mustafa.netlify.app/)  |
 | 011 | [📝 Canvas](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/White-Boardr) | [🔗 Live Demo](https://canvas-by-mustafa.netlify.app/)  |
-| 012 | [⚖️ Weight Converter](https://github.com/MustafaPinjari/HTML-PROJECTS/Weight-Converter) | [🔗 Live Demo]()  |
+| 012 | [⚖️ Weight Converter](https://github.com/MustafaPinjari/HTML-PROJECTS/Weight-Converter) | [🔗 Live Demo](https://weight-converter-by-mustafa.netlify.app/)  |
 
 
 ## 📚 About the Projects
