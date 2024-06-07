@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, please reach out to:
 
-- **Email:** .com
+- **Email:** unlessuser99@gmail.com
 - **GitHub:** [Mustafa Pinajri](https://github.com/MustafaPinajri)
 
 ---
