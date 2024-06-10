@@ -20,7 +20,7 @@ Explore each project individually and view live demos to see them in action:
 | 011 | [📝 Canvas](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/White-Boardr) | [🔗 Live Demo](https://canvas-by-mustafa.netlify.app/)  |
 | 012 | [⚖️ Weight Converter](https://github.com/MustafaPinjari/HTML-PROJECTS/Weight-Converter) | [🔗 Live Demo](https://weight-converter-by-mustafa.netlify.app/)  |
 | 013 | [🈸 Whether App](https://github.com/MustafaPinjari/HTML-PROJECTS/Weather-App) | [🔗 Live Demo](https://whether-app-by-mustafa.netlify.app/)  |
-| 014 | [🔃 ILLUSION LOADDER](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/wavy-Loader) | [🔗 Live Demo](https://whether-app-by-mustafa.netlify.app/)  |
+| 014 | [🔃 ILLUSION LOADDER](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/wavy-Loader) | [🔗 Live Demo](https://loader-by-mustafa.netlify.app/)  |
 
 
 
