@@ -1,6 +1,6 @@
 # Virtual Keyboard
 
-![Virtual Keyboard Screenshot](snap.png)
+![Virtual Keyboard Screenshot](snap.PNG)
 
 ## Overview
 The **Virtual Keyboard** is a web-based application that simulates a physical keyboard. Users can interact with the on-screen keys to input text, making it a useful tool for devices without a physical keyboard or for accessibility purposes.
