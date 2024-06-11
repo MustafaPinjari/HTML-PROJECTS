@@ -23,14 +23,6 @@ Explore each project individually and view live demos to see them in action:
 | 014 | [🔃 ILLUSION LOADDER](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/wavy-Loader) | [🔗 Live Demo](https://loader-by-mustafa.netlify.app/)  |
 | 015 | [⌨️ Keyboard](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Virtual%20Keyboard) | [🔗 Live Demo](https://key-board-by-mustafa.netlify.app/)  |
 
-
-
-
-
-
-
-
-
 ## 📚 About the Projects
 
 Each project in this repository is designed to be a self-contained example of web development techniques. From simple animations to complex interactions, these projects are great for learning and experimenting.
