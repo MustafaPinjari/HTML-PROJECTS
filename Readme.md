@@ -44,7 +44,7 @@ Each project in this repository is designed to be a self-contained example of we
    ```
 2. **Navigate to the Project Directory**:
    ```sh
-   cd HTML-PROJECTS/Battery-Detector
+   cd HTML-PROJECTS
    ```
 3. **Open the Project**:
    - Open `index.html` in your favorite web browser.
