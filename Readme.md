@@ -23,7 +23,7 @@ Explore each project individually and view live demos to see them in action:
 | 014 | [🔃 ILLUSION LOADDER](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/wavy-Loader) | [🔗 Live Demo](https://loader-by-mustafa.netlify.app/)  |
 | 015 | [⌨️ Keyboard](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Virtual%20Keyboard) | [🔗 Live Demo](https://key-board-by-mustafa.netlify.app/)  |
 | 016 | [⌨️ Typing Champ](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Typing%20champ) | [🔗 Live Demo](https://typing-champ-by-mustafa.netlify.app/)  |
-| 017 | [⌨️ Typing Test](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Typing%20Speed%20Test%20Website) | [🔗 Live Demo](https://typing-champ-by-mustafa.netlify.app/)  |
+| 017 | [⌨️ Typing Test](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Typing%20Speed%20Test%20Website) | [🔗 Live Demo](https://type-master-by-mustafa.netlify.app/)  |
 
 
 
