@@ -25,7 +25,7 @@ Explore each project individually and view live demos to see them in action:
 | 016 | [⌨️ Typing Champ](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Typing%20champ) | [🔗 Live Demo](https://typing-champ-by-mustafa.netlify.app/)  |
 | 017 | [⌨️ Typing Test](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Typing%20Speed%20Test%20Website) | [🔗 Live Demo](https://type-master-by-mustafa.netlify.app/)  |
 | 018 | [⌨️ Loream Genrator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/loremipsum-generator) | [🔗 Live Demo](https://type-master-by-mustafa.netlify.app/)  |
-| 018 | [📱 Tip calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Tip%20Calculator) | [🔗 Live Demo](https://tip-calci-by-mustafa.netlify.app/)  |
+| 019 | [📱 Tip calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Tip%20Calculator) | [🔗 Live Demo](https://tip-calci-by-mustafa.netlify.app/)  |
 
 
 
