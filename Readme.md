@@ -27,7 +27,7 @@ Explore each project individually and view live demos to see them in action:
 | 018 | [⌨️ Loream Genrator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/loremipsum-generator) | [🔗 Live Demo](https://type-master-by-mustafa.netlify.app/)  |
 | 019 | [📱 Tip calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Tip%20Calculator) | [🔗 Live Demo](https://tip-calci-by-mustafa.netlify.app/)  |
 | 020 | [🗣️ Text to Speech](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/text%20to%20speech) | [🔗 Live Demo](https://text-to-speech-by-mustafa.netlify.app/)  |
-| 020 | [🗣️ Text to Speech](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/tabla) | [🔗 Live Demo](https://tabla-by-mustafa.netlify.app/)  |
+| 020 | [🥁 Tabla](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/tabla) | [🔗 Live Demo](https://tabla-by-mustafa.netlify.app/)  |
 
 
 
