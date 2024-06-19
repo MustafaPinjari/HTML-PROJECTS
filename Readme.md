@@ -29,6 +29,10 @@ Explore each project individually and view live demos to see them in action:
 | 020 | [🗣️ Text to Speech](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/text%20to%20speech) | [🔗 Live Demo](https://text-to-speech-by-mustafa.netlify.app/)  |
 | 021 | [🥁 Tabla](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/tabla) | [🔗 Live Demo](https://tabla-by-mustafa.netlify.app/)  |
 | 022 | [🗨️ String Palindrome Checkerr](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/String%20Palindrome%20Checker) | [🔗 Live Demo](https://667192cdb6193c05b7d942ea--regal-otter-1eb556.netlify.app/)  |
+| 023 | [📲 Speed-distance-time-calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/speed-distance-time-calculator) | [🔗 Live Demo](https://66730861edf85b5bfaad5d5f--iridescent-tapioca-b7378b.netlify.app/)  |
+
+
+
 
 
 
