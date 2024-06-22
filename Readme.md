@@ -31,18 +31,7 @@ Explore each project individually and view live demos to see them in action:
 | 022 | [🗨️ String Palindrome Checkerr](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/String%20Palindrome%20Checker) | [🔗 Live Demo](https://667192cdb6193c05b7d942ea--regal-otter-1eb556.netlify.app/)  |
 | 023 | [📲 Speed-distance-time-calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/speed-distance-time-calculator) | [🔗 Live Demo](https://66730861edf85b5bfaad5d5f--iridescent-tapioca-b7378b.netlify.app/)  |
 | 024 | [🐍 Snake Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/ff413496df2dedcadb7c3f03c5b328475560ff7c/Snake-Game) | [🔗 Live Demo](https://6674f451ff107b0cf23e5039--dreamy-bavarois-f6e462.netlify.app/)  |
-
-
-
-
-
-
-
-
-
-
-
-
+| 025 | [🈸 CalculatorApp](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/03728c191d125878c91505cc2ec43b68c5aac2a0/CalculatorApp) | [🔗 Live Demo](https://mustafapinjari.netlify.app/)  |
 
 
 ## 📚 About the Projects
