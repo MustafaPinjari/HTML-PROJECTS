@@ -33,6 +33,8 @@ Explore each project individually and view live demos to see them in action:
 | 024 | [🐍 Snake Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/ff413496df2dedcadb7c3f03c5b328475560ff7c/Snake-Game) | [🔗 Live Demo](https://6674f451ff107b0cf23e5039--dreamy-bavarois-f6e462.netlify.app/)  |
 | 025 | [🈸 CalculatorApp](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/03728c191d125878c91505cc2ec43b68c5aac2a0/CalculatorApp) | [🔗 Live Demo](https://mustafapinjari.netlify.app/)  |
 
+| 026 | [📸 Browser Camers](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/03728c191d125878c91505cc2ec43b68c5aac2a0/CalculatorApp) | [🔗 Live Demo](https://6677aaeedd68c836fdfc240c--lighthearted-fairy-213d11.netlify.app/)  |
+
 
 ## 📚 About the Projects
 
