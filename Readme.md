@@ -12,28 +12,28 @@ Explore each project individually and view live demos to see them in action:
 | 003 | [🛠️ BMI Calculator (JS)](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/BMI%20Calculator%20(JS)) | [🔗 Live Demo](https://bmicalculatorindex.netlify.app/)  |
 | 004 | [📦 Classroom Scheduler](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/CLASSROOM%20SCHEDULER%20WEBSITE) | [🔗 Live Demo](https://classroomschedulerbymustafa.netlify.app/)  |
 | 005 | [⌚ Analog Clock](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Analog%20Clock) | [🔗 Live Demo](https://analog-watch-by-mustafa.netlify.app/)  |
-| 006 | [🕛Digital Clock](https://github.com/MustafaPinjari/HTML-PROJECTS/Digital%20Clock) | [🔗 Live Demo](https://digital-clock-by-mustafa.netlify.app/)  |
-| 007 | [📚 Blog Application](https://github.com/MustafaPinjari/HTML-PROJECTS/Blog-Application) | [🔗 Live Demo](https://blog-application-by-mustafa.netlify.app/)  |
-| 008 | [🌐 Basic Protfolio](https://github.com/MustafaPinjari/HTML-PROJECTS/) | [🔗 Live Demo](https://mustafapinjari.netlify.app/)  |
-| 009 | [⚽ Bouncing balls](https://github.com/MustafaPinjari/HTML-PROJECTS/) | [🔗 Live Demo](https://bouncing-balls-by-mustafa.netlify.app/)  |
-| 010 | [🔄️ Word Counter](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/word%20counter) | [🔗 Live Demo](https://bouncing-balls-by-mustafa.netlify.app/)  |
+| 006 | [🕛 Digital Clock](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Digital%20Clock) | [🔗 Live Demo](https://digital-clock-by-mustafa.netlify.app/)  |
+| 007 | [📚 Blog Application](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Blog-Application) | [🔗 Live Demo](https://blog-application-by-mustafa.netlify.app/)  |
+| 008 | [🌐 Basic Portfolio](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://mustafapinjari.netlify.app/)  |
+| 009 | [⚽ Bouncing balls](https://github.com/MustafaPinjari/HTML-PROJECTS) | [🔗 Live Demo](https://bouncing-balls-by-mustafa.netlify.app/)  |
+| 010 | [🔄️ Word Counter](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/word%20counter) | [🔗 Live Demo](https://word-counter-by-mustafa.netlify.app/)  |
 | 011 | [📝 Canvas](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/White-Boardr) | [🔗 Live Demo](https://canvas-by-mustafa.netlify.app/)  |
-| 012 | [⚖️ Weight Converter](https://github.com/MustafaPinjari/HTML-PROJECTS/Weight-Converter) | [🔗 Live Demo](https://weight-converter-by-mustafa.netlify.app/)  |
-| 013 | [🈸 Whether App](https://github.com/MustafaPinjari/HTML-PROJECTS/Weather-App) | [🔗 Live Demo](https://whether-app-by-mustafa.netlify.app/)  |
-| 014 | [🔃 ILLUSION LOADDER](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/wavy-Loader) | [🔗 Live Demo](https://loader-by-mustafa.netlify.app/)  |
+| 012 | [⚖️ Weight Converter](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Weight-Converter) | [🔗 Live Demo](https://weight-converter-by-mustafa.netlify.app/)  |
+| 013 | [🈸 Weather App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Weather-App) | [🔗 Live Demo](https://weather-app-by-mustafa.netlify.app/)  |
+| 014 | [🔃 ILLUSION LOADER](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/wavy-Loader) | [🔗 Live Demo](https://loader-by-mustafa.netlify.app/)  |
 | 015 | [⌨️ Keyboard](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Virtual%20Keyboard) | [🔗 Live Demo](https://key-board-by-mustafa.netlify.app/)  |
 | 016 | [⌨️ Typing Champ](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Typing%20champ) | [🔗 Live Demo](https://typing-champ-by-mustafa.netlify.app/)  |
 | 017 | [⌨️ Typing Test](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Typing%20Speed%20Test%20Website) | [🔗 Live Demo](https://type-master-by-mustafa.netlify.app/)  |
-| 018 | [⌨️ Loream Genrator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/loremipsum-generator) | [🔗 Live Demo](https://type-master-by-mustafa.netlify.app/)  |
-| 019 | [📱 Tip calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Tip%20Calculator) | [🔗 Live Demo](https://tip-calci-by-mustafa.netlify.app/)  |
+| 018 | [⌨️ Lorem Generator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/loremipsum-generator) | [🔗 Live Demo](https://lorem-generator-by-mustafa.netlify.app/)  |
+| 019 | [📱 Tip Calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Tip%20Calculator) | [🔗 Live Demo](https://tip-calci-by-mustafa.netlify.app/)  |
 | 020 | [🗣️ Text to Speech](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/text%20to%20speech) | [🔗 Live Demo](https://text-to-speech-by-mustafa.netlify.app/)  |
 | 021 | [🥁 Tabla](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/tabla) | [🔗 Live Demo](https://tabla-by-mustafa.netlify.app/)  |
-| 022 | [🗨️ String Palindrome Checkerr](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/String%20Palindrome%20Checker) | [🔗 Live Demo](https://667192cdb6193c05b7d942ea--regal-otter-1eb556.netlify.app/)  |
-| 023 | [📲 Speed-distance-time-calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/speed-distance-time-calculator) | [🔗 Live Demo](https://66730861edf85b5bfaad5d5f--iridescent-tapioca-b7378b.netlify.app/)  |
-| 024 | [🐍 Snake Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/ff413496df2dedcadb7c3f03c5b328475560ff7c/Snake-Game) | [🔗 Live Demo](https://6674f451ff107b0cf23e5039--dreamy-bavarois-f6e462.netlify.app/)  |
-| 025 | [🈸 CalculatorApp](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/03728c191d125878c91505cc2ec43b68c5aac2a0/CalculatorApp) | [🔗 Live Demo](https://mustafapinjari.netlify.app/)  |
+| 022 | [🗨️ String Palindrome Checker](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/String%20Palindrome%20Checker) | [🔗 Live Demo](https://string-palindrome-checker.netlify.app/)  |
+| 023 | [📲 Speed Distance Time Calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/speed-distance-time-calculator) | [🔗 Live Demo](https://speed-distance-time-calculator.netlify.app/)  |
+| 024 | [🐍 Snake Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Snake-Game) | [🔗 Live Demo](https://snake-game-by-mustafa.netlify.app/)  |
+| 025 | [🈸 Calculator App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/CalculatorApp) | [🔗 Live Demo](https://calculator-app-by-mustafa.netlify.app/)  |
+| 026 | [📸 Browser Camera](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Browser-Camera) | [🔗 Live Demo](https://browser-camera-by-mustafa.netlify.app/)  |
 
-| 026 | [📸 Browser Camers](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/03728c191d125878c91505cc2ec43b68c5aac2a0/CalculatorApp) | [🔗 Live Demo](https://6677aaeedd68c836fdfc240c--lighthearted-fairy-213d11.netlify.app/)  |
 
 
 ## 📚 About the Projects
