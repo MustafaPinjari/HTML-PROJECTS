@@ -1,62 +1,76 @@
 # Bouncing Balls Project
 
-Welcome to the **Bouncing Balls** project! This project demonstrates the creation of animated bouncing balls using HTML5, CSS, and JavaScript. Each ball changes color upon collision with another ball or with the edges of the canvas.
+## Description
+
+This project is a simple, interactive animation of bouncing balls using HTML5, CSS, and JavaScript. The balls move around the canvas, change color upon collision with each other, and bounce off the edges of the canvas.
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Files Included](#files-included)
-3. [Setup and Usage](#setup-and-usage)
-4. [Future Improvements](#future-improvements)
-5. [Contributing](#contributing)
-6. [License](#license)
+- Getting Started
+- Project Structure
+- Usage
+- Customization
+- License
 
-## Project Overview
+## Getting Started
 
-This project utilizes HTML5 Canvas to create a simple animation of bouncing balls. Each ball has its own properties such as position, velocity, color, and size. When the balls collide with each other or the edges of the canvas, they change direction and color, creating a visually engaging effect.
+To get a local copy up and running, follow these simple steps:
 
-## Files Included
+### Prerequisites
+
+You need a web browser to view the project.
+
+### Installation
+
+1. Clone the repo from GitHub.
+2. Open the `index.html` file in your favorite web browser.
+
+## Project Structure
 
 The project consists of the following files:
 
-- **index.html**: The main HTML file that includes the canvas element and links to the CSS and JavaScript files.
-- **style.css**: The CSS file for basic styling of the HTML elements.
-- **main.js**: The JavaScript file containing the logic for creating and animating the bouncing balls.
+- `index.html`: The main HTML file that sets up the structure of the webpage.
+- `style.css`: The CSS file that contains the styles for the project.
+- `main.js`: The JavaScript file that handles the logic and animation of the bouncing balls.
+- `favicon/`: A directory containing the favicon for the webpage.
 
-## Setup and Usage
+## Usage
 
-To run the project locally, follow these steps:
+When you open `index.html` in a browser, you'll see a full-screen canvas with animated balls bouncing around. The balls change color upon colliding with each other and bounce off the edges of the canvas.
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/MustafaPinjari/bouncing-balls.git
-    ```
-2. **Navigate to the project directory**:
-    ```bash
-    cd bouncing-balls
-    ```
-3. **Open `index.html` in your web browser**:
-    ```bash
-    open index.html
-    ```
+### How It Works
 
-Alternatively, you can simply double-click on the `index.html` file to open it in your default web browser.
+- **HTML**: Sets up the basic structure, including the canvas element where the balls will be drawn.
+- **CSS**: Provides basic styling for the webpage, ensuring the canvas takes up the full screen and the page has no margins or overflow.
+- **JavaScript**: Handles the creation, drawing, updating, and collision detection of the balls.
 
-## Future Improvements
+## Customization
 
-- Add interactivity to allow users to add or remove balls by clicking or using buttons.
-- Implement different shapes and sizes for variety.
-- Improve collision physics to make the animation more realistic.
-- Add a UI for adjusting parameters like ball speed, number of balls, and colors.
+You can customize various aspects of the project:
 
-## Contributing
+### Number of Balls
 
-If you'd like to contribute to this project, please fork the repository and create a pull request with your changes. Feel free to open issues for any bugs or suggestions.
+To change the number of balls, modify the condition in the `while` loop in `main.js`.
+
+### Ball Size
+
+The size of the balls is determined randomly within a range. To change this range, modify the respective lines in `main.js`.
+
+### Ball Speed
+
+The speed of the balls is also randomly determined. To change the speed range, modify the respective lines in `main.js`.
+
+### Ball Colors
+
+Ball colors are randomly generated using RGB values. You can customize how colors are assigned by modifying the random function calls in `main.js`.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Happy coding! Enjoy the bouncing balls animation. If you have any questions or need further assistance, feel free to reach out.
+Feel free to reach out if you have any questions or need further assistance. Happy coding!
+
+**Author**: [Mustafa Pinjari]  
+**GitHub**: [Mustafa Pinjari](https://github.com/MustafaPinjari)
