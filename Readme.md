@@ -33,7 +33,7 @@ Explore each project individually and view live demos to see them in action:
 | 024 | [🐍 Snake Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Snake-Game) | [🔗 Live Demo](https://snake-game-by-mustafa.netlify.app/)  |
 | 025 | [🈸 Calculator App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/CalculatorApp) | [🔗 Live Demo](https://calculator-app-by-mustafa.netlify.app/)  |
 | 026 | [📸 Browser Camera](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Browser-Camera) | [🔗 Live Demo](https://browser-camera-by-mustafa.netlify.app/)  |
-
+| 026 | [⚾ Bouncing Ball](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/36c091f186b5e44f45a3601adfc604a18d0c5597/bouncing-balls) | [🔗 Live Demo](https://browser-camera-by-mustafa.netlify.app/)  |
 
 
 ## 📚 About the Projects
