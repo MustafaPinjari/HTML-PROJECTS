@@ -34,9 +34,7 @@ Explore each project individually and view live demos to see them in action:
 | 025 | [🈸 Calculator App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/CalculatorApp) | [🔗 Live Demo](https://calculator-app-by-mustafa.netlify.app/)  |
 | 026 | [📸 Browser Camera](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/Browser-Camera) | [🔗 Live Demo](https://browser-camera-by-mustafa.netlify.app/)  |
 | 027 | [⚾ Bouncing Ball](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/36c091f186b5e44f45a3601adfc604a18d0c5597/bouncing-balls) | [🔗 Live Demo](https://browser-camera-by-mustafa.netlify.app/)  |
-
-
-https://github.com/MustafaPinjari/HTML-PROJECTS/tree/b12644824ca19ddda07d5b699689a86c49636742/Chess-Game
+| 028 | [♟️ Chess game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/b12644824ca19ddda07d5b699689a86c49636742/Chess-Game) | [🔗 Live Demo](https://browser-camera-by-mustafa.netlify.app/)  |
 
 
 ## 📚 About the Projects
