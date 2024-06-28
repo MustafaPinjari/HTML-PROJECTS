@@ -36,7 +36,7 @@ Explore each project individually and view live demos to see them in action:
 | 027 | [⚾ Bouncing Ball](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/36c091f186b5e44f45a3601adfc604a18d0c5597/bouncing-balls) | [🔗 Live Demo](https://browser-camera-by-mustafa.netlify.app/)  |
 | 028 | [♟️ Chess game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/b12644824ca19ddda07d5b699689a86c49636742/Chess-Game) | [🔗 Live Demo](https://browser-camera-by-mustafa.netlify.app/)  |
 
-| 028 | [♟️ Chess game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/afe5c83133f76a74ed80065ad69796d821be034b/Pixel%20Art%20Generator) | [🔗 Live Demo](https://pixel-art-generator-by-mustafa.netlify.app/)  |
+| 029 | [🖼️ Pixel Art Genrator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/afe5c83133f76a74ed80065ad69796d821be034b/Pixel%20Art%20Generator) | [🔗 Live Demo](https://pixel-art-generator-by-mustafa.netlify.app/)  |
 
 
 
