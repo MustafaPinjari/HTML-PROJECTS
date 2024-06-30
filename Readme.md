@@ -40,7 +40,7 @@ Explore each project individually and view live demos to see them in action:
 | 029 | [🖼️ Pixel Art Generator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/afe5c83133f76a74ed80065ad69796d821be034b/Pixel%20Art%20Generator) | [🔗 Live Demo](https://pixel-art-generator-by-mustafa.netlify.app/) |
 | 030 | [🔑 Password Generator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/de1dcc75ed4e7c8a79870d3c18d799e466cf9b33/password-generator) | [🔗 Live Demo](https://password-generator-by-mustafa.netlify.app/) |
 
-| 031 | [📸 Qr Code Generator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/c34cc849079c1195b99e9fbaa74c8c95b38c09f6/QR%20Code%20Generator) | [🔗 Live Demo](https://password-generator-by-mustafa.netlify.app/) |
+| 031 | [📸 Qr Code Generator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/c34cc849079c1195b99e9fbaa74c8c95b38c09f6/QR%20Code%20Generator) | [🔗 Live Demo](https://qr-code-generator-by-mustafa.netlify.app/) |
 
 
 
