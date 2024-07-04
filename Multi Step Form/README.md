@@ -1,6 +1,4 @@
-Here is a README file for your project, "Multi Step Form":
 
-```markdown
 # Multi Step Form
 
 ## Project Description
@@ -46,7 +44,7 @@ This project is a multi-step form that allows users to input their information a
 
 ## Project Structure
 
-```
+
 multi-step-form/
 │
 ├── index.html       # Main HTML file
