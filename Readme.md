@@ -43,7 +43,7 @@ Explore each project individually and view live demos to see them in action:
 | 032 | [🎮 XO Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/38c385ef1e4ab4b0ae64c30b126b3312ebebfec7/XO%20Game) | [🔗 Live Demo](https://xo-gamer-by-mustafa.netlify.app/) |
 | 032 | [🪙 Coin Flipv](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/b801d7c14f919ef32b57bdc7717dda18ad14c0a5/Flip%20a%20Coin%20Game) | [🔗 Live Demo](https://coin-flip-by-mustafa.netlify.app/) |
 | 033 | [📃 Multi Step Form](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/b801d7c14f919ef32b57bdc7717dda18ad14c0a5/Flip%20a%20Coin%20Game) | [🔗 Live Demo](https://668658d560fe7295fa978c6f--dazzling-halva-bfa39d.netlify.app/) |
-| 034 | [📐 Aspect Ratio Calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/b801d7c14f919ef32b57bdc7717dda18ad14c0a5/Flip%20a%20Coin%20Game) | [🔗 Live Demo](https://668658d560fe7295fa978c6f--dazzling-halva-bfa39d.netlify.app/) |
+| 034 | [📐 Aspect Ratio Calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/8eefe75237857cbd387d3020c78b0b785d501685/Aspect%20Ratio%20Calculator) | [🔗 Live Demo](https://668658d560fe7295fa978c6f--dazzling-halva-bfa39d.netlify.app/) |
 
 ## 📚 About the Projects
 
