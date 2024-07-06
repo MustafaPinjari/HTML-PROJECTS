@@ -45,7 +45,7 @@ Explore each project individually and view live demos to see them in action:
 | 033 | [📃 Multi Step Form](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/b801d7c14f919ef32b57bdc7717dda18ad14c0a5/Flip%20a%20Coin%20Game) | [🔗 Live Demo](https://668658d560fe7295fa978c6f--dazzling-halva-bfa39d.netlify.app/) |
 | 034 | [📐 Aspect Ratio Calculator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/8eefe75237857cbd387d3020c78b0b785d501685/Aspect%20Ratio%20Calculator) | [🔗 Live Demo](https://668658d560fe7295fa978c6f--dazzling-halva-bfa39d.netlify.app/) |
 
-| 035| [📚 Language Translator Projectr](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/26f22e908e78ab49ede49ae1365b1aac277ed2fd/Translator%20App) | [🔗 Live Demo](https://668658d560fe7295fa978c6f--dazzling-halva-bfa39d.netlify.app/) |
+| 035| [📚 Language Translator Projectr](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/26f22e908e78ab49ede49ae1365b1aac277ed2fd/Translator%20App) | [🔗 Live Demo](https://6689049d04e1c16c0c94176c--imaginative-beignet-862a37.netlify.app/) |
 
 
 ## 📚 About the Projects
