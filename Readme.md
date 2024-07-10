@@ -47,7 +47,10 @@ Explore each project individually and view live demos to see them in action:
 | 035| [📚 Language Translator Projectr](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/26f22e908e78ab49ede49ae1365b1aac277ed2fd/Translator%20App) | [🔗 Live Demo](https://6689049d04e1c16c0c94176c--imaginative-beignet-862a37.netlify.app/) |
 | 036| [📋 ToDo App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/4491b006628e8e3506f5f7e549725dd6dd17092e/ToDo%20App) | [🔗 Live Demo](https://668a26037b536c82da070d4f--lucent-eclair-b71814.netlify.app/) |
 | 037| [🎨 GeoMetric Art Generator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/623f77dd005e6466a9ddca509d9689bf5398fb93/Geometric%20Art%20Generator) | [🔗 Live Demo](https://668b5f4d7b536cb327070f34--lucent-stardust-9c6367.netlify.app/) |
-| 037| [📚 Budget App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/819557df5dd44607209653efb65051e9d12bf606/Budget%20App) | [🔗 Live Demo](https://budget-calculator-by-mustafa.netlify.app/) |
+| 038| [📚 Budget App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/819557df5dd44607209653efb65051e9d12bf606/Budget%20App) | [🔗 Live Demo](https://budget-calculator-by-mustafa.netlify.app/) |
+| 039| [🗣️Text To Speech App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/d61b36f43ce78b35b48ea5164d12dc306951a41f/Text%20To%20Speech%20App) | [🔗 Live Demo](https://text-to-speech-app-by-mustafa.netlify.app/) |
+
+
 
 
 ## 📚 About the Projects
