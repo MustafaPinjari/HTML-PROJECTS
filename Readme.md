@@ -49,7 +49,7 @@ Explore each project individually and view live demos to see them in action:
 | 037| [🎨 GeoMetric Art Generator](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/623f77dd005e6466a9ddca509d9689bf5398fb93/Geometric%20Art%20Generator) | [🔗 Live Demo](https://668b5f4d7b536cb327070f34--lucent-stardust-9c6367.netlify.app/) |
 | 038| [📚 Budget App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/819557df5dd44607209653efb65051e9d12bf606/Budget%20App) | [🔗 Live Demo](https://budget-calculator-by-mustafa.netlify.app/) |
 | 039| [🗣️Text To Speech App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/d61b36f43ce78b35b48ea5164d12dc306951a41f/Text%20To%20Speech%20App) | [🔗 Live Demo](https://text-to-speech-app-by-mustafa.netlify.app/) |
-
+| 040| [📷 QR Code Reader](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/682e14907f696b36d7135c8c1b0f64d5e038fe41/QR%20Code%20Reader) | [🔗 Live Demo](https://qr-code-reader-by-mustafa.netlify.app/) |
 
 
 
