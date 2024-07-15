@@ -53,7 +53,7 @@ Explore each project individually and view live demos to see them in action:
 | 041| [🛞 Spin Wheel App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/2d11fe9009114343bf30499a91058c0f0a6ab9e7/Spin%20Wheel%20App) | [🔗 Live Demo](https://6690a3badc6b2eae1c38f545--gentle-bublanina-ae4ad3.netlify.app/) |
 | 042| [🎨 Gradient Generator App](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/c8ae72828223de6da7effee0cade630881cec101/Gradient%20Generator) | [🔗 Live Demo](https://gradient-generator-by-mustafa.netlify.app/) |
 | 043| [🎮 Guess The Word Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/f63c93bc1551e68ab22003a5f400d6824fc0beaf/Guess%20The%20Word%20Game) | [🔗 Live Demo](https://guess-the-word-game-by-mustafa.netlify.app/) |
-| 044| [🎮 Simon Game]() | [🔗 Live Demo](https://669495e3f5566505c86846ae--bejewelled-macaron-0f7f8d.netlify.app/) |
+| 044| [🎮 Simon Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/a079a2e3afc739b0dc64567e2764397d42734f50/Simon%20Game) | [🔗 Live Demo](https://669495e3f5566505c86846ae--bejewelled-macaron-0f7f8d.netlify.app/) |
 
 
 ## 📚 About the Projects
