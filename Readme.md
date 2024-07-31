@@ -55,7 +55,7 @@ Explore each project individually and view live demos to see them in action:
 | 043| [🎮 Guess The Word Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/f63c93bc1551e68ab22003a5f400d6824fc0beaf/Guess%20The%20Word%20Game) | [🔗 Live Demo](https://guess-the-word-game-by-mustafa.netlify.app/) |
 | 044| [🎮 Simon Game](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/a079a2e3afc739b0dc64567e2764397d42734f50/Simon%20Game) | [🔗 Live Demo](https://669495e3f5566505c86846ae--bejewelled-macaron-0f7f8d.netlify.app/) |
 | 045 | [📝 Canvas](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/main/White-Boardr)                 | [🔗 Live Demo](https://canvas-by-mustafa.netlify.app/)            |
-
+| 046 | [📝 To-Do List](https://github.com/MustafaPinjari/HTML-PROJECTS/tree/2a14a76cde18bf894f3ab7ec200a079c30e69236/To-Do%20List) | [🔗 Live Demo](https://canvas-by-mustafa.netlify.app/)            |
 
 ## 📚 About the Projects
 
